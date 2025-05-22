@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Julia Kruk!
 
-<!--
-**liakruk/liakruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- I’m currently conducting applied AI research as a researcher at the IARA++ Lab, focusing on data classification and molecular property analysis.
 
-Here are some ideas to get you started:
+### Academic
+- **Bachelor of Science and Technology**, Federal University of ABC [On Going]
+- Researcher on **IARA++ Laboratory**, Federal University of ABC [On Going]
+- **Bachelors in Computer Science**, Federal University of ABC [On Going]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- **Languages:** Python, SQL, Excel, R, Power BI
+- **Libraries:** Pandas, Numpy, Seaborn, Scikit-learn, Tensorflow, Keras
+- **Specialties:** AI apllied to data classification and prediction
+
+### Certifications
+- **Udemy:** Excel (Advanced), Machine Learning (AI, Python and R), Data Science, SQL (Advanced)
+
+## Contact Me
+**Email:** [juliakruk005@gmail.com](mailto:juliakruk005@gmail.com)  
+**LinkedIn:** [liakruk](https://linkedin.com/in/liakruk)  
+**GitHub:** [liakruk](https://github.com/liakruk)
