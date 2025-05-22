@@ -18,5 +18,5 @@
 
 ## Contact Me
 **Email:** [juliakruk005@gmail.com](mailto:juliakruk005@gmail.com)  
-**LinkedIn:** [liakruk](https://linkedin.com/in/liakruk)  
+**LinkedIn:** [liakruk](https://linkedin.com/in/julia-kruk-61101928a/)  
 **GitHub:** [liakruk](https://github.com/liakruk)
