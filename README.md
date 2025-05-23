@@ -5,7 +5,7 @@
 
 ### Academic
 - [On Going] **Bachelor of Science and Technology**, Federal University of ABC
-- [On Going] Researcher on **IARA++ Laboratory**, Federal University of ABC
+- [On Going] Researcher on **IARA++ Lab**, Federal University of ABC
 - [Soon] **Bachelors in Computer Science**, Federal University of ABC
 - [Soon] **Bachelors in Data Science**, Federal University of ABC
 
