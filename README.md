@@ -10,9 +10,9 @@
 - [Soon] **Bachelors in Data Science**, Federal University of ABC
 
 ### Tools
-- **Languages:** Python, SQL, Excel, R, Power BI
+- **Languages:** Python, SQL, Excel, Power BI
 - **Libraries:** Pandas, Numpy, Seaborn, Scikit-learn, Tensorflow, Keras
-- **Specialties:** AI apllied to data classification and prediction
+- **Specialties:** AI applied to data classification and prediction
 
 ### Certifications
 - **Udemy:** Excel (Advanced), Machine Learning (AI, Python and R), Data Science, SQL (Advanced)
