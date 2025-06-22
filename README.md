@@ -14,7 +14,7 @@
 - **Libraries:** Pandas, Numpy, Seaborn, Scikit-learn, Tensorflow, Keras
 - **Specialties:** AI applied to data classification and prediction
 
-### Certifications
+### Certifications (on going)
 - **Udemy:** Excel (Advanced), Machine Learning (AI, Python and R), Data Science, SQL (Advanced)
 
 ## Contact Me
