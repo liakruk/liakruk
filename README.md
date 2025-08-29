@@ -11,6 +11,6 @@
 ### Certifications
 - **Udemy:** Excel (Advanced), Data Science & AI (Python), SQL (Advanced)
 
-## Contact Me
+### Contact Me
 **Email:** [juliakruk005@gmail.com](mailto:juliakruk005@gmail.com)  
 **LinkedIn:** [liakruk](www.linkedin.com/in/liakruk) 
