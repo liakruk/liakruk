@@ -6,7 +6,7 @@
 
 ### Tools
 - **Languages:** Python, SQL, Excel, Power BI
-- **Python Libraries:** Pandas, Numpy, Seaborn, Scikit-learn, Tensorflow, Keras
+- **Python Libraries:** Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Tensorflow, Keras
 
 ### Certifications
 - **Udemy:** Excel (Advanced), Data Science & AI (Python), SQL (Advanced)
