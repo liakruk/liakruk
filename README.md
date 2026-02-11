@@ -8,7 +8,7 @@
 - **Languages:** Python, SQL, Excel, Power BI
 - **Python Libraries:** Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Tensorflow, Keras
 
-### Certifications
+### Courses
 - **Udemy:** Excel (Advanced), Data Science & AI (Python), SQL (Advanced)
 
 ### Contact Me
